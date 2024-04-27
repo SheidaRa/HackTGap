@@ -1,0 +1,12 @@
+#accessibilityButton {
+    background-color: white;
+    width: 120px;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom:10px;
+    left: 10px;
+    border-radius: 50%;
+}

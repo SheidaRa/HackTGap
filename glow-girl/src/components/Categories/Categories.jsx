@@ -1,7 +1,10 @@
+import Data from '../../data.json';
+
 function Categories() {
+
     return (
         <>
-            <h1>Hello!</h1>
+            <h1>{Data.categories[0].title}</h1>
         </>
     )
 }

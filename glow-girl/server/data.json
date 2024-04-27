@@ -1,0 +1,216 @@
+{
+    "categories": [
+        {
+            "title": "Abortion",
+            "summary": "There are two ways of ending a pregnancy: in-clinic abortion and the abortion pill. Both are safe and very common.",
+            "topics": [
+                {
+                    "title": "Considering Abortion"
+                },
+                {
+                    "title": "The Abortion Pill"
+                },
+                {
+                    "title": "In-Clinic Abortion"
+                }
+            ]
+        },
+        {
+            "title": "Birth Control",
+            "summary": "Birth control is how you prevent pregnancy. There are lots of different birth control options out there.",
+            "topics": [
+                {
+                    "title": "Birth Control Implant"
+                },
+                {
+                    "title": "IUD"
+                },
+                {
+                    "title": "Birth Control Shot"
+                },
+                {
+                    "title": "Birth Control Vaginal Ring"
+                },
+                {
+                    "title": "Birth Control Patch"
+                },
+                {
+                    "title": "Birth Control Pill"
+                },
+                {
+                    "title": "Condom"
+                },
+                {
+                    "title": "Internal Condom"
+                },
+                {
+                    "title": "Diaphragm"
+                },
+                {
+                    "title": "Birth Control Sponge"
+                },
+                {
+                    "title": "Spermicide & Gel"
+                },
+                {
+                    "title": "Cervical Cap"
+                },
+                {
+                    "title": "Fertility Awareness"
+                },
+                {
+                    "title": "Withdrawal"
+                },
+                {
+                    "title": "Breastfeeding as Birth Control"
+                },
+                {
+                    "title": "Abstinence"
+                }
+            ]
+        },
+        {
+            "title": "Cancer",
+            "summary": "There are many different types of cancer, including cancers that affect your breasts and genitals. Cancer can often be cured if you find it early and get treatment — that’s why it’s so important to get regular checkups and cancer screenings.",
+            "topics": [
+                {
+                    "title": "Pap and HPV Tests"
+                },
+                {
+                    "title": "Breast Cancer"
+                },
+                {
+                    "title": "Cervical Cancer"
+                },
+                {
+                    "title": "HPV-Related Cancers"
+                },
+                {
+                    "title": "Ovarian Cancer"
+                }
+            ]
+        },
+        {
+            "title": "Emergency Contraception",
+            "summary": "Emergency contraception is a safe and effective way to prevent pregnancy up to 5 days after unprotected sex.",
+            "topics": [
+                {
+                    "title": "Which kind should I use?"
+                },
+                {
+                    "title": "Is the morning-after pill right for me?"
+                }
+            ]
+        },
+        {
+            "title": "Gender Identity",
+            "summary": "Learning more about gender identity can help you understand yourself and the people around you.",
+            "topics": [
+                {
+                    "title": "Sex and Gender Identity"
+                },
+                {
+                    "title": "Transgender Identities"
+                }
+            ]
+        },
+        {
+            "title": "Health and Wellness",
+            "summary": "It's important to get to know your body, to attend regular check-ups, and to address any issues that might pop up.",
+            "topics": [
+                {
+                    "title": "COVID-19"
+                },
+                {
+                    "title": "Endometriosis"
+                },
+                {
+                    "title": "Menopause"
+                },
+                {
+                    "title": "Menstruation"
+                },
+                {
+                    "title": "Ovarian Cysts"
+                },
+                {
+                    "title": "Pelvic Inflammatory Disease (PID)"
+                },
+                {
+                    "title": "Polycystic Ovary Syndrome (PCOS)",
+                    "article": "<h2>What is PCOS?</h2><p>PCOS stands for polycystic ovary syndrome. The exact cause of PCOS is unknown. What is known is that PCOS has to do with hormone imbalances. With PCOS, your body may have high amounts of two hormones: androgen and insulin. These hormonal issues can cause changes in your body’s ability to release an egg (ovulate) and can lead to irregular periods, ovarian cysts, trouble getting pregnant, and other symptoms.</p><h2>What are the symptoms of PCOS?</h2><p>PCOS symptoms include:<ul><li>Irregular periods</li><li>Polycystic ovaries, AKA ovarian cysts</li><li>Infertility (trouble getting pregnant) — PCOS is one of the top causes of infertility.</li><li>Excess hair on your face, chest, belly, or upper thighs (sometimes called hirsutism)</li><li>Severe acne or oily skin</li><li>Dark skin patches</li></ul></p><h2>How is PCOS diagnosed and treated?</h2><p>There’s no special test for PCOS. If you’re worried you may have PCOS, a doctor or nurse (like the staff at your nearest Planned Parenthood health center) can help you figure out if that’s what’s going on.<br>Your doctor or nurse will look at your skin and measure your weight and blood pressure. They’ll ask questions about your period, any symptoms you may be having, and your personal and family health history. They may do a pelvic exam and blood tests to check your hormone levels, whether you may be pregnant, and more. In some cases, your doctor or nurse may recommend getting an ultrasound to check for ovarian cysts.<br>PCOS treatment is different for different people. While there is no cure for PCOS, taking medicine, exercising regularly, eating a healthy diet, and losing weight if you’re obese (i.e. have a BMI over 35) can help your symptoms. If you don’t want to become pregnant, your doctor or nurse may recommend hormonal birth control, like the hormonal IUD, birth control implant, pill, patch, ring, or shot to treat your PCOS. The pill, patch, or ring may be particularly helpful if you’re struggling with acne or want more regular periods. If you’re trying to get pregnant, drugs that treat insulin resistance may help, as well as certain fertility drugs that can help you ovulate. Losing weight can also help with ovulation and fertility.</p>"
+                },
+                {
+                    "title": "Sexual and Reproductive Anatomy"
+                },
+                {
+                    "title": "Urinary Tract Infections (UTIs)",
+                    "article": "<h2>What’s a UTI?</h2><p>A urinary tract infection (UTI) is an infection of the urinary system, including your bladder and urethra. Anyone can get a UTI, but they’re more common if you have a vulva.</p><h2>What’s a UTI?</h2><p>A urinary tract infection, or UTI, is an infection in your urinary system, including the <ul><li>bladder — the organ that collects and stores urine</li><li>urethra — the tube that carries urine from your bladder out of your body</li></ul> There are two kinds of UTIs: cystitis and urethritis. Cystitis is an infection of the bladder. Urethritis is an infection of the urethra. If left untreated, either of these can spread and cause a kidney infection. So even though UTIs are really common, you’ve got to take them seriously.</p><h2>What causes UTIs?</h2><p>It’s pretty easy to get a urinary tract infection. Bacteria that live in the vagina, genital, and anal areas may enter the urethra, travel to the bladder, and cause an infection. This can happen during sexual activity when bacteria from your partner’s genitals, anus, fingers, or sex toys gets pushed into your urethra. UTIs can also be caused by chlamydia, gonorrhea, or other organisms.<br>Although UTIs aren’t spread from one person to another like STDs, having sex can lead to or worsen UTIs. But you don’t have to have sex to get a UTI. Anything that brings bacteria in contact with your urethra can cause a UTI.<br>You’re more likely to get a UTI if you <ul><li>have had one before</li><li>have diabetes</li><li>are obese</li><li>use spermicides or a diaphragm</li><li>have kidney stones or other obstructions in your urinary tract</li></ul>Most people aren’t able to pinpoint the exact cause of their UTI because so many things can lead to it.</p><h2>What are the symptoms of a UTI?</h2><p>One of the most common symptoms of a UTI is a frequent and urgent need to pee. You might feel like you need to pee all the time, even if you just went. Other UTI symptoms include:<ul><li>pain or burning when you pee</li><li>bad-smelling or cloudy urine</li><li>blood or pus in your urine</li><li>soreness, pressure, or cramps in your lower belly, back, or sides</li></ul>If the infection goes to your kidneys, your UTI symptoms may also include:<ul><li>pain in your mid-back (to the right or left of the spine)</li><li>fever</li><li>chills</li><li>nausea</li><li>vomiting</li><li>feeling tired</li></ul>If you have any of these symptoms, tell your doctor right away. Kidney infections are serious and need to be treated immediately.<br>These symptoms aren’t always caused by a UTI. Other infections, such as STDs or vaginitis, may cause painful or frequent urination. Only a doctor or nurse can tell for sure if you have a UTI.</p>"
+                },
+                {
+                    "title": "Uterine Fibroids"
+                },
+                {
+                    "title": "Vaginitis (yeast infection & bacterial vaginosis)"
+                },
+                {
+                    "title": "Wellness Visits"
+                }
+            ]
+        },
+        {
+            "title": "Pregnancy",
+            "summary": "Maybe you want the facts on how pregnancy happens. Or maybe you’re pregnant and want to know more about your options. Or maybe you want to know how to have a healthy pregnancy.",
+            "topics": [
+                {
+                    "title": "Considering Pregnancy"
+                },
+                {
+                    "title": "Pre-Pregnancy Health and Planning"
+                },
+                {
+                    "title": "How Pregnancy Happens"
+                }
+            ]
+        },
+        {
+            "title": "Sex and Relationships",
+            "summary": "Having a healthy sex life is good for you emotionally and physically. Learn the facts you need to help you communicate with your sexual partners, learn about arousal and orgasms, and cope with sexual disorders.",
+            "topics": [
+                {
+                    "title": "Sexual Dysfunction"
+                },
+                {
+                    "title": "Sexual and Reproductive Anatomy"
+                }
+            ]
+        },
+        {
+            "title": "Sexual Orientation",
+            "summary": "Sexual orientation is about who you’re attracted to and want to have relationships with. Only you can decide what sexual identity best describes you.",
+            "topics": [
+                {
+                    "title": "How do I know my sexual orientation?"
+                },
+                {
+                    "title": "Coming Out"
+                }
+            ]
+        },
+        {
+            "title": "Sexually Transmitted Infections (STDs)",
+            "summary": "STDs are infections that are spread from one person to another, usually during vaginal, anal, and oral sex. They’re really common, and lots of people who have them don’t have any symptoms. Without treatment, STDs can lead to serious health problems. But the good news is that getting tested is no big deal, and most STDs are easy to treat.",
+            "topics": [
+                {
+                    "title": "HPV (Human Papillomavirus)"
+                },
+                {
+                    "title": "Syphilis"
+                },
+                {
+                    "title": "Trichomoniasis (Trich)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,7 +1,14 @@
-#footer {
+footer {
     background-color: #FFFFFF;
-    height: 100px;
+    height: 50px;
     width: 100%;
     position: fixed;
     bottom: 0px;
+    display: flex;
+    align-items: center;
+}
+
+.settings-item {
+    flex: 1;
+    color: #B9375E;
 }

@@ -14,7 +14,7 @@ function Categories() {
             <Container fluid>
             <Row>
             {Data.categories.map((category, i) => (
-                <Col><CategoryListItem key={i} category={category} /></Col>
+                <Col lg={true}><CategoryListItem key={i} category={category} /></Col>
             ))}
             </Row>
             </Container>

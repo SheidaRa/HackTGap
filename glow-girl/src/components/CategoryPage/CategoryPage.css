@@ -6,13 +6,22 @@
     font-family: Inter, Arial, Helvetica, sans-serif;
     font-size: 32px;
     font-weight: 700;
+    border: 0px;
+    border-radius: 20px;
+    width: 400px;
+    height: 200px;
+}
+body {
+    background-color: #FFE0E9;
 }
 
 #articles {
+    padding: 40px;
     background-color: #FFFCFC;
     border: 1px solid #FFE0E9;
     border-top-left-radius: 60px;
     border-top-right-radius: 60px;
+    height: 100vh;
 }
 
 #summary h1 {

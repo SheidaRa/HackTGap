@@ -3,3 +3,9 @@ h1 {
     color: #8A2846;
     font-size: 32px;
 }
+
+#categories {
+    background-color: #fff;
+    padding-bottom: 100px;
+    height: 100%;
+}

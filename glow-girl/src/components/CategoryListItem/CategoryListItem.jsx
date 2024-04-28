@@ -1,6 +1,7 @@
 // TODO import for client-side routing (useHistory?)
 import { useDispatch } from 'react-redux';
 import { useNavigate } from 'react-router-dom';
+import './CategoryListItem.css';
 
 function CategoryListItem({ category }) {
 
@@ -17,7 +18,7 @@ function CategoryListItem({ category }) {
 
     return (
         <>
-            <button onClick={goToCategoryPage}>{category.title}</button>
+            <button className='category-button' onClick={goToCategoryPage}>{category.title}</button>
         </>
     )
 }

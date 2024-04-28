@@ -1,0 +1,30 @@
+.article-button {
+    background-color: #E05780;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px 0px #00000040;
+    font-family: Inter, Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+#articles {
+    background-color: #FFFCFC;
+    border: 1px solid #FFE0E9;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+}
+
+#summary h1 {
+    font-family: Inter, Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+#summary {
+    background-color: #FFE0E9;
+    font-family: Inter, Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+
+}

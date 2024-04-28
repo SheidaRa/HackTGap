@@ -1,0 +1,14 @@
+.category-button {
+    background: rgb(224,87,128);
+    background: linear-gradient(180deg, rgba(224,87,128,1) 0%, rgba(224,87,128,1) 80%, rgba(255,224,233,1) 80%, rgba(255,224,233,1) 100%);
+    box-shadow: 0px 4px 4px 0px #00000040;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px 0px #00000040;
+    font-family: Inter, Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    border-radius: 20px;
+    border: 0px;
+    width: 400px;
+    height: 200px;
+}

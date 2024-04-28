@@ -1,5 +1,6 @@
 import { useSelector } from 'react-redux';
 import parse from 'html-react-parser';
+import './TopicPage.css';
 
 function TopicPage() {
 

@@ -4,15 +4,12 @@ import { Container, Row, Col } from "react-bootstrap"
 import './Footer.css';
 
 function Footer(){
-    // have this be a grid component from bootstrap with 3 columns, each one being a button
     return(
-    <Container>
-      <Row>
-        <Col><IoChevronBackOutline /></Col>
-        <Col><IoIosSearch /></Col>
-        <Col><IoSettingsOutline /></Col>
-      </Row>
-    </Container>
+       <footer>
+        <div className="settings-item"><IoChevronBackOutline size={50} /></div>
+        <div className="settings-item"><IoIosSearch size={50} /></div>
+        <div className="settings-item"><IoSettingsOutline size={50} /></div>
+       </footer>
     );
 }
 

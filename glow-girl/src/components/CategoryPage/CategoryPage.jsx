@@ -32,7 +32,7 @@ function CategoryPage() {
             <Container fluid>
                 <Row>
             {category?.topics?.map((topic, i) => (
-                <Col lg={true}><button className='article-button' key={i} onClick={() => goToTopicPage(topic)}>{topic.title}</button></Col>
+                <Col key={i} lg={true}><button className='article-button' onClick={() => goToTopicPage(topic)}>{topic.title}</button></Col>
             ))}
             </Row>
             </Container>

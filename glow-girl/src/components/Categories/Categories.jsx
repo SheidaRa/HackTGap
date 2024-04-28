@@ -1,10 +1,14 @@
 import Data from '../../data.json';
+import CategoryListItem from '../CategoryListItem/CategoryListItem';
 
 function Categories() {
 
     return (
         <>
-            <h1>{Data.categories[0].title}</h1>
+            <h1>Categories</h1>
+            {Data.categories.map((category, i) => (
+                <CategoryListItem key={i} category={category} />
+            ))}
         </>
     )
 }

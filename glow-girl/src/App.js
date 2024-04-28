@@ -3,6 +3,7 @@ import './App.css';
 import Accessibility from './components/Accessibility/Accessibility';
 import Categories from './components/Categories/Categories';
 import CategoryPage from './components/CategoryPage/CategoryPage';
+import TopicPage from './components/TopicPage/TopicPage';
 import {
   HashRouter as Router,
   Route,
@@ -21,6 +22,8 @@ function App() {
           {/* TODO move Categories and Accessibility into Home component */}
           
           <Route path="/category" element={<CategoryPage />} />
+
+          <Route path="/topic" element={<TopicPage />} />
 
         </Routes>
       </Router>

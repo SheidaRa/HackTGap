@@ -9,7 +9,7 @@ function TopicPage() {
     return (
         <>
             <h1>{topic?.title}</h1>
-            <div>{topic.article && parse(topic.article)}</div>
+            <div className="article-container">{topic.article && parse(topic.article)}</div>
         </>
     )
 }

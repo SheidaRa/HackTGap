@@ -1,3 +1,5 @@
+
+
 .article-button {
     background-color: #E05780;
     box-shadow: 0px 4px 4px 0px #00000040;
@@ -10,7 +12,10 @@
     border-radius: 20px;
     width: 400px;
     height: 200px;
+    margin-right: 20px; /* Adjust the horizontal space between buttons */
+    margin-bottom: 20px; /* Adjust the vertical space between buttons */
 }
+
 body {
     background-color: #FFE0E9;
 }
@@ -35,5 +40,4 @@ body {
     font-family: Inter, Arial, Helvetica, sans-serif;
     font-size: 28px;
     font-weight: 400;
-
 }

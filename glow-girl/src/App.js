@@ -9,6 +9,7 @@ import {
   Route,
   Routes,
 } from 'react-router-dom';
+import Settings from './components/Settings/Settings';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
 
           <Route path="/topic" element={<TopicPage />} />
 
+          <Route path="/settings" element={<Settings />} />
         </Routes>
       </Router>
     </div>

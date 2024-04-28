@@ -1,11 +1,18 @@
 // TODO import for client-side routing (useHistory?)
+import { useDispatch } from 'react-redux';
+import { useNavigate } from 'react-router-dom';
 
 function CategoryListItem({ category }) {
 
+    const dispatch = useDispatch();
+    const navigate = useNavigate();
+
     let goToCategoryPage = () => {
-        console.log(category);
-        // TODO save category obj to reducer
-        // TODO route user to CategoryPage
+        // save category obj to reducer
+        dispatch({ type: 'SET_CATEGORY', payload: category });
+
+        // route user to CategoryPage
+        navigate('/category');
     }
 
     return (
